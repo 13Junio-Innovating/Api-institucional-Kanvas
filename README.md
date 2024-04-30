@@ -1,4 +1,4 @@
-# M5 - Projeto Final Kanvas
+# Api institucional Kanvas
 
 ## Preparando ambiente para execução dos testes
 
