@@ -45,6 +45,6 @@ stack-data==0.6.3
 traitlets==5.13.0
 typing_extensions==4.8.0
 tzdata==2023.3
-uritemplate==4.1.1
+uritemplate==4.2.0
 wcwidth==0.2.9
 whitenoise==6.6.0
